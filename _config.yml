@@ -1,7 +1,7 @@
 name: Testing Technologies
 favicon: null
-layout_spectrum: 0.9190648582298309
-typography_spectrum: 0.10088435909710824
+layout_spectrum: 0.19953
+typography_spectrum: 0.83556
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5607518132310361
-  lightness: 0.5258901864290237
-  saturation: 0.541608659317717
-  rhythmicContrast: 0.7204466201364994
+    - '#fcb337'
+    - '#ff0000'
+    - '#ffff00'
+    - '#808000'
+    - '#000000'
+  brandStrength: 0.1875
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
